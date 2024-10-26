@@ -1,5 +1,9 @@
 # Hakutai
 
+> Note: This project is currently under development. Some features may not be complete, and changes are being made frequently.
+
+We are actively working on building this project, and it is not yet ready for production use. Feel free to explore, but please be aware that things may change rapidly during this phase.
+
 Hakutai is a platform for uploading and sharing AI-generated content.
 This project aims to provide a space where creators can easily publish their AI creations, share various inspirations, and showcase unique ideas.
 
